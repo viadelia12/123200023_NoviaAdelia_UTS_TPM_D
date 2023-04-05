@@ -38,7 +38,7 @@ class _TabungState extends State<Tabung> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(0xffAEC2B6),
-        title: Text('Trapesium'),
+        title: Text('Tabung'),
       ),
       body: SingleChildScrollView(
         child: Column(
